@@ -89,14 +89,3 @@ Após a coleta e pré-processamento das imagens, o próximo passo é iniciar o t
 ---
 
 Este `README.md` serve como documentação inicial do projeto, fornecendo uma visão geral da estrutura, objetivos e etapas planejadas para o desenvolvimento da solução.
-```
-
-### Explicação do `README.md`
-
-Esse arquivo fornece:
-- **Visão Geral do Projeto**: Introduz o objetivo e alinhamento do projeto com o PBIA.
-- **Estrutura do Projeto**: Descrição da organização das pastas e arquivos.
-- **Fases do Projeto**: Divide o projeto em etapas claras, incluindo a coleta de dados, pré-processamento, treinamento do modelo e documentação.
-- **Requisitos do Trabalho**: Lista os requisitos específicos do trabalho prático, de acordo com o enunciado fornecido.
-- **Instruções de Execução**: Passos para rodar o WebScraper.
-- **Próximos Passos**: Direcionamento para a continuidade do projeto após a coleta de dados.
